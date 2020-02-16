@@ -1,7 +1,7 @@
 # Eratosthenes-in-10-languages
 'Sieve of Eratosthenes' in 10 languages
 
-Planned language list:
+List of languages (tentative):
 
 - Scala
 - Python
