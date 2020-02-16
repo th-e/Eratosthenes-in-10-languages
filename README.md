@@ -16,4 +16,6 @@ Planned language list:
 
 
 ## References
-https://rosettacode.org/wiki/Sieve_of_Eratosthenes
+- https://rosettacode.org/wiki/Sieve_of_Eratosthenes
+- https://medium.com/coding-with-clarity/functional-vs-iterative-prime-numbers-in-scala-7e22447146f0
+- https://github.com/qrider71/PolyDev
