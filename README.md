@@ -3,8 +3,8 @@
 
 Planned language list:
 
-Scala
-Python
+- Scala
+- Python
 Swift
 F#
 C++
