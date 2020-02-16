@@ -5,11 +5,11 @@ Planned language list:
 
 - Scala
 - Python
-Swift
-F#
-C++
-Kotlin
-Java
-Clojure
-Haskell
-Rust
+- Swift
+- F#
+- C++
+- Kotlin
+- Java
+- Clojure
+- Haskell
+- Rust
