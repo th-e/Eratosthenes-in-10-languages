@@ -13,3 +13,7 @@ Planned language list:
 - Clojure
 - Haskell
 - Rust
+
+
+## References
+https://rosettacode.org/wiki/Sieve_of_Eratosthenes
