@@ -1,6 +1,10 @@
 # Eratosthenes-in-10-languages
 'Sieve of Eratosthenes' in 10 languages
 
+This is NOT a programming language battle. It makes sense to learn all of them.
+
+In the new era of AWS lambda and cloud computing resource consumption and startup times are becoming more and more important.
+
 List of languages (tentative):
 
 - Scala
@@ -13,6 +17,20 @@ List of languages (tentative):
 - Clojure
 - Haskell
 - Rust
+
+## Performance
+
+The execution time is measured from outside, meaning that the JVM startup time and other stuff is included. The unix 'time' command is used and the values are the 'real time' in millis.
+
+Currently the implementation style (functional, iterative etc.) has a big influence on the performance. There is some hope that this will change in the future.
+
+Readable and maintainable code should always be the primary goal.
+
+
+### Scala Native 
+#### mutable & iterative
+
+
 
 
 ## References
