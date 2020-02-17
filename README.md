@@ -20,7 +20,7 @@ List of languages (tentative):
 
 ## Performance
 
-The execution time is measured from outside, meaning that the JVM startup time and other stuff is included. The unix 'time' command is used and the values are the 'real time' in millis.
+The execution time here is measured from outside, meaning that the JVM startup time and other stuff is included. The unix 'time' command is used and the values are the 'real time' in millis.
 
 Currently the implementation style (functional, iterative etc.) has a big influence on the performance. There is some hope that this will change in the future.
 
