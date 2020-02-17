@@ -28,12 +28,12 @@ Readable and maintainable code should always be the primary goal.
 
 The eratosthenes sieve is searching for primes from 2 to N
 
-
-### Scala Native 
-#### mutable & iterative
+Hardware: MacBook Pro 2,2 GHz Intel Core i7
 
 
-
+Language / N | 5 | 6 | 7 | 8 | 9
+------------ | - | - | - | - | -
+ScalaNative mutable&iterative | 4 | 10 | 69 | 805 | 8460
 
 
 
