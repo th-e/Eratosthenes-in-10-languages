@@ -26,9 +26,13 @@ Currently the implementation style (functional, iterative etc.) has a big influe
 
 Readable and maintainable code should always be the primary goal.
 
+The eratosthenes sieve is searching for primes from 2 to N
+
 
 ### Scala Native 
 #### mutable & iterative
+
+
 
 
 
