@@ -1,7 +1,7 @@
 # Eratosthenes-in-10-languages
 'Sieve of Eratosthenes' in 10 languages
 
-This is NOT a programming language battle. It makes sense to learn all of them.
+This is NOT a programming language battle. Learning a few of them makes you a better programmer ;-)
 
 In the new era of AWS lambda and cloud computing resource consumption and startup times are becoming more and more important.
 
